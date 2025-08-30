@@ -1,0 +1,16 @@
+name: formlm
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8.12
+  - pytorch=1.11.0
+  - transformers=4.17.0
+  - datasets=2.2.2
+  - pip
+  - pip:
+    - absl-py==1.1.0
+    - adapter-transformers==3.0.1
+    - nltk==3.7
+    - rouge-score==0.0.4
