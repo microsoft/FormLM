@@ -1,3 +1,6 @@
+# Copyright (c) Microsoft Corporation.
+# Licensed under the MIT License.
+
 import random
 from dataclasses import dataclass
 from typing import Optional, List, Any, Dict, Union, Tuple

@@ -1,3 +1,6 @@
+# Copyright (c) Microsoft Corporation.
+# Licensed under the MIT License.
+
 """ Pytorch FormLM model.
 This implementation is based on huggingface implementation of BART model.
 https://github.com/huggingface/transformers/blob/main/src/transformers/models/bart/modeling_bart.py

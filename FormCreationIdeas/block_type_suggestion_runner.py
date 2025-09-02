@@ -1,3 +1,6 @@
+# Copyright (c) Microsoft Corporation.
+# Licensed under the MIT License.
+
 """Fine-tune FormLM to suggest block type."""
 import logging
 import os

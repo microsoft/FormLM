@@ -1,3 +1,6 @@
+# Copyright (c) Microsoft Corporation.
+# Licensed under the MIT License.
+
 """Continually pre-train FormLM with online form data."""
 import logging
 import os

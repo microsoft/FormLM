@@ -1,3 +1,6 @@
+# Copyright (c) Microsoft Corporation.
+# Licensed under the MIT License.
+
 """Fine-tune FormLM to recommend the options."""
 import logging
 import os

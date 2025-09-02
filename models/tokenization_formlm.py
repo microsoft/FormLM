@@ -1,3 +1,6 @@
+# Copyright (c) Microsoft Corporation.
+# Licensed under the MIT License.
+
 """FormLM tokenizer.
 This implementation based on huggingface implementation of tokenization_bart.py.
 https://github.com/huggingface/transformers/blob/main/src/transformers/models/bart/tokenization_bart.py

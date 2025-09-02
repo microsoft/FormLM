@@ -1,3 +1,6 @@
+# Copyright (c) Microsoft Corporation.
+# Licensed under the MIT License.
+
 """ FormLM model configuration
 The implementation is based on huggingface implementation of BART configuration.
 https://github.com/huggingface/transformers/blob/main/src/transformers/models/bart/configuration_bart.py

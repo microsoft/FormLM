@@ -1,3 +1,6 @@
+# Copyright (c) Microsoft Corporation.
+# Licensed under the MIT License.
+
 """Linearize an online form while preserving its structural information."""
 from typing import Dict
 
